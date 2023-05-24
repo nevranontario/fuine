@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Buat Fuine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        h1 {
+            color: #e74c3c;
+            font-size: 40px;
+        }
+
+        p {
+            color: #333;
+            font-size: 24px;
+
+
+        .love-heart {
+            font-size: 100px;
+            color: #e74c3c;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Untuk Fuine</h1>
+    <p>Selamat pagi, Fuine! Hari ini aku mau bilang, I love you.</p>
+    <p>Kamu bikin aku senyum-senyum setiap hari dan
+        memberikan arti yang lebih dalam tentang sebuah hubungan.</p>
+    <p>Kamu itu matahari yang bersinar di tiap langkah aku, dan sama kamu, aku jadi penuh warna.</p>
+    <p>Terima kasih telah menjadi pendengar yang baik, sahabat yang setia, dan kekasih yang luar biasa.</p>
+    <p>Jadi, hari ini dan setiap hari, aku mungkin bisa makin sayang sama kamu.</p>
+    <p>Saking gabutnya, aku sampe bikin ginian pake html hahaha. Intinya kamu bahagia terus ya, sayang.</p>
+    <p class="love-heart">&#10084;&#65039;</p>
+</body>
+
+</html>
